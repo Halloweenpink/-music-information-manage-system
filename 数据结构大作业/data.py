@@ -28,10 +28,10 @@ class LinkedList:
 
 
 accounts = LinkedList()
-accounts.add_account("周鑫星", "123456", "all_person/zxx.xlsx")
-accounts.add_account("张倬玮", "123456", "all_person/zzw.xlsx")
-accounts.add_account("曹祥瑞", "123456", "all_person/cxr.xlsx")
-accounts.add_account("", "", "all_person/cxr.xlsx")  # 开发者作弊路径，无需密码和用户名
+accounts.add_account("abc", "123456", "all_person/zxx.xlsx")
+accounts.add_account("def", "123456", "all_person/zzw.xlsx")
+accounts.add_account("ghi", "123456", "all_person/cxr.xlsx")
+accounts.add_account("", "", "all_person/ghi.xlsx")  # 开发者作弊路径，无需密码和用户名
 
 
 # 歌曲总曲库
