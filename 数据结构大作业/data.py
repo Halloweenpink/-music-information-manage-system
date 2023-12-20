@@ -28,9 +28,9 @@ class LinkedList:
 
 
 accounts = LinkedList()
-accounts.add_account("abc", "123456", "all_person/zxx.xlsx")
-accounts.add_account("def", "123456", "all_person/zzw.xlsx")
-accounts.add_account("ghi", "123456", "all_person/cxr.xlsx")
+accounts.add_account("abc", "123456", "all_person/abc.xlsx")
+accounts.add_account("def", "123456", "all_person/def.xlsx")
+accounts.add_account("ghi", "123456", "all_person/ghi.xlsx")
 accounts.add_account("", "", "all_person/ghi.xlsx")  # 开发者作弊路径，无需密码和用户名
 
 
