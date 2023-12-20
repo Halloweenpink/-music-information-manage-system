@@ -15,6 +15,7 @@
 		----……  
 	----0.png  
 	----1.png  
+  	----data.py  
 	----音乐信息系统.py  
 其中0.png和1.png为默认的登录背景与用户背景的图片命名  
 Paddle下载链接：https://www.paddlepaddle.org.cn/install/quick  
